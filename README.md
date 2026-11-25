@@ -16,7 +16,7 @@
 
 ---
 
-# 🗂️ Asset Directory Index
+# 🗂️ Example Asset Directory Index
 
 ## 👑 Empress Vanta Dollmaker (`/empress-vanta-dollmaker/`)
 
