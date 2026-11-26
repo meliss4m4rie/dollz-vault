@@ -1,4 +1,4 @@
-# Dollz Vault & Asset Archive
+# Dollz Vault / Asset Archive
 
 Reincarnated Y2K asset vault housing designer, goth, punk, shuni, chubby, pregnant, and unique prop archives, pixel bases, modular clothing layers, and retro web artifacts.
 
